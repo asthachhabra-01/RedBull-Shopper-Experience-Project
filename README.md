@@ -26,7 +26,7 @@ To understand what drives Red Bull purchase decisions in-store, identify satisfa
 | Detail | Info |
 |---|---|
 | Respondents | 630 |
-| Survey Period | June 2024 — August 2024 |
+| Survey Period | June 2024 - August 2024 |
 | Geography | Australia (state-level) |
 | Format | `.xlsx` |
 

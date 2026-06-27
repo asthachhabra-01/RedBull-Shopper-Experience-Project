@@ -46,11 +46,6 @@ All cleaning performed in **Power Query (Power BI Desktop).**
 | 6 | State / Region & Competitor Brands | Same delimiter split applied — freetext responses consolidated under `Other` |
 | 7 | Gender | `Non-binary / third gender` and `Prefer not to say` merged into `Other / Prefer Not to Say` using Replace Values |
 
-## Dashboard
-
-*(Screenshots and Power BI Service link — coming soon)*
-
----
 
 ---
 

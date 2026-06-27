@@ -34,8 +34,6 @@ To understand what drives Red Bull purchase decisions in-store, identify satisfa
 
 ## Data Cleaning Steps
 
-## Data Cleaning Steps
-
 All cleaning performed in **Power Query (Power BI Desktop).**
 
 | Step | Column | Action |

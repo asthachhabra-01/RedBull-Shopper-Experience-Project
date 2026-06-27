@@ -16,8 +16,8 @@ To understand what drives Red Bull purchase decisions in-store, identify satisfa
 
 ## Tools Used
 
-- **Power BI Desktop** — data cleaning in Power Query, DAX measures, dashboard design
-- **Excel** — raw survey dataset
+- **Power BI Desktop** - data cleaning in Power Query, DAX measures, dashboard design
+- **Excel** - raw survey dataset
 
 ---
 

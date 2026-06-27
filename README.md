@@ -34,9 +34,18 @@ To understand what drives Red Bull purchase decisions in-store, identify satisfa
 
 ## Data Cleaning Steps
 
-*(To be updated after Power BI cleaning)*
+## Data Cleaning Steps
 
----
+All cleaning performed in **Power Query (Power BI Desktop).**
+
+| Step | Column | Action |
+|---|---|---|
+| 1 | Purchase Channel | Split on `)` delimiter — freetext responses consolidated under `Other` |
+| 2 | Red Bull Variant | Split on `:` delimiter — seasonal/limited editions grouped as `Other` |
+| 3 | Price Per Can | Duplicated column → split digit to non-digit → replaced `-` and `+` → converted to whole number → averaged to single price estimate |
+| 4 | Secondary Purchase Trigger | Column removed — analysis scoped to primary trigger only |
+| 5 | Purchase Trigger | Split on `:` delimiter — freetext responses consolidated under `Other` |
+| 6 | State / Region & Competitor Brands | Same delimiter split applied — freetext responses consolidated under `Other` |
 
 ## Dashboard
 

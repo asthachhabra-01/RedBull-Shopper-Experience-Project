@@ -32,6 +32,13 @@ To understand what drives Red Bull purchase decisions in-store, identify satisfa
 
 ---
 
+## Dashboard
+
+### Red Bull Shopper Survey Dashboard
+![Red Bull Shopper Survey Dashboard](https://raw.githubusercontent.com/asthachhabra-01/RedBull-Shopper-Experience-Project/main/Red%20Bull%20Shopper%20Survey%20Dashboard.png)
+
+---
+
 ## Data Cleaning Steps
 
 All cleaning performed in **Power Query (Power BI Desktop).**
